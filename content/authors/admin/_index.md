@@ -31,6 +31,9 @@ education:
     - course: BSc in Physics
       institution: FAU Erlangen, Germany
       year: 20014
+    - course: MSc in Advanced Optical Technologies
+      year: 2017
+      institution: FAU Erlangen, Germany
 superuser: true
 status:
   icon: ☕️
