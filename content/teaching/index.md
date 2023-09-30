@@ -44,6 +44,7 @@ When I initially took on a significant role as a co-instructor for the Northwest
 
 ### Overhaul of our Computational Photography Course
 
-During my time as a Teaching Assistant for CS331: Introduction to Computational Photography, I helped transition the course to an online format in response to the COVID-19 pandemic. This change allowed us to accommodate more participants due to the high demand. For the Fall 2020 term, I created a new set of homework assignments using Python and Jupyter notebooks. The aim was to use Python, a widely used open-source language in Computer Vision research, to gradually introduce students to the various aspects of computational photography, including vision and imaging.
+During my time as a Teaching Assistant for CS331: Introduction to Computational Photography, I was responsible for the transition of the course to an online format in response to the COVID-19 pandemic. This change allowed us to accommodate more participants due to the high demand. For the Fall 2020 term, I created a new set of homework assignments using Python and Jupyter notebooks. The aim was to use Python, a widely used open-source language in Computer Vision research, to gradually introduce students to the various aspects of computational photography, including vision and imaging.
 
 The homework assignments are available for everyone to check out on our [GitHub repository](https://github.com/NUCS331).
+
