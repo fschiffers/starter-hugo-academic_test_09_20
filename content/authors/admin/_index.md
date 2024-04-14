@@ -44,7 +44,7 @@ title: Florian Schiffers
 first_name: Florian
 email: ""
 ---
-I’m a Ph.D. candidate in Computer Science at [Northwestern University](https://en.wikipedia.org/wiki/Northwestern_University), mentored by [Prof. Cossairt](https://compphotolab.northwestern.edu/) and specializing in computational display. My primary endeavor is in pioneering Computer Generated Holography for next-generation near-eye displays, and I also hold a keen interest in exploring Computational Imaging, Computer Vision, Inverse Problems, and Medical Imaging.
+I’m a Ph.D. candidate in [Computer Science]() at [Northwestern University](https://en.wikipedia.org/wiki/Northwestern_University), mentored by [Prof. Cossairt](https://compphotolab.northwestern.edu/) and specializing in computational display. My primary endeavor is in pioneering Computer Generated Holography for next-generation near-eye displays, and I also hold a keen interest in exploring Computational Imaging, Computer Vision, Inverse Problems, and Medical Imaging.
 
 Before delving into my Ph.D., I earned my [Masters in Physics](https://www.physics.nat.fau.eu/studies/bsc-and-msc-in-physics/) in [Erlangen](https://www.fau.de/) and accumulated valuable industry experience at [Siemens Healthineers](https://en.wikipedia.org/wiki/Siemens_Healthineers). These experiences have played a pivotal role in shaping my academic and research trajectory.
 
